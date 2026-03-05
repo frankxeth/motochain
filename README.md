@@ -14,7 +14,7 @@
 
 OPNET DeFi is a fully on-chain decentralized finance application built on the **OPNET protocol** — the first smart contract layer for Bitcoin. This project enables:
 
-- 🔄 **Token Swaps** — Trade BRC-20 tokens and Runes instantly
+- 🔄 **Token Swaps** — Trade OP-20 tokens and Runes instantly
 - 💧 **Liquidity Pools** — Provide liquidity and earn trading fees
 - 🌱 **Staking** — Stake OPNET tokens for up to 31.8% APY
 - 🏛️ **Lending** — Borrow and lend BTC-native assets
