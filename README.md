@@ -1,9 +1,7 @@
 # 🟠 OPNET DeFi — Bitcoin Mainnet
 
 > **DeFi protocol built on OPNET smart contract layer for Bitcoin.**  
-> Mainnet Live: **March 2026** 🚀
-
-![OPNET DeFi Banner](public/og-image.png)
+> Mainnet Live: **March 2026** 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Bitcoin Mainnet](https://img.shields.io/badge/Bitcoin-Mainnet-orange?logo=bitcoin)](https://opnet.org)
@@ -72,7 +70,7 @@ opnet-defi/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/opnet-defi.git
+git clone https://github.com/frankxeth/motochain.git
 cd opnet-defi
 ```
 
@@ -128,19 +126,6 @@ async function executeSwap(fromToken, toToken, amount) {
   });
   return tx;
 }
-```
-
----
-
-## 📊 Protocol Stats (Mainnet · March 2026)
-
-| Metric | Value |
-|--------|-------|
-| Total Value Locked | $284M |
-| Unique Wallets | 142,000+ |
-| 30-Day Volume | $1.2B |
-| Supported Tokens | 50+ BRC-20 |
-| Average APY | 18.4% |
 
 ---
 
@@ -160,7 +145,7 @@ This project was built for the **OPNET Mainnet Launch Event — March 2026**.
 ### Event Links
 - 🌐 OPNET Official: [https://opnet.org](https://opnet.org)
 - 📖 Developer Docs: [https://docs.opnet.org](https://docs.opnet.org)
-- 💬 Discord: [https://discord.gg/opnet](https://discord.gg/opnet)
+- 💬 Discord: [https://discord.gg/opnet]([https://discord.gg/3KQKVcjE]
 - 🐦 Twitter: [@opnet_btc](https://twitter.com/opnet_btc)
 
 ---
