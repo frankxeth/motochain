@@ -25,7 +25,7 @@ OPNET DeFi is a fully on-chain decentralized finance application built on the **
 
 ## 🔗 Live Demo
 
-**→ [https://your-username.github.io/opnet-defi](https://your-username.github.io/opnet-defi)**
+**→ [https://your-username.github.io/opnet-defi](https://frankxeth/motochain.git)**
 
 ---
 
@@ -70,7 +70,7 @@ opnet-defi/
 
 ### 1. Clone the Repository
 ```bash
-  git clone [https://github.com/frankxeth/motochain.git
+  git clone https://github.com/frankxeth/motochain.git
 cd opnet-defi
 ```
 
@@ -169,4 +169,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-*Built with ❤️ on Bitcoin · OPNET Mainnet · March 2026*
+*Built with ❤️ on Bitcoin · OP_NET L1 · Mainnet on 17 March 2026*
