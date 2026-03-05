@@ -1,6 +1,6 @@
-# 🟠 OPNET DeFi — Bitcoin Mainnet
+# 🟠 OPNET DeFi — Bitcoin L1 
 
-> **DeFi protocol built on OPNET smart contract layer for Bitcoin.**  
+> **DeFi protocol built on OPNET smart contract layer for Bitcoin L1.**  
 > Mainnet Live: **17 March 2026** 🚀
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -33,7 +33,7 @@ OPNET DeFi is a fully on-chain decentralized finance application built on the **
 
 | Wallet | Status | Type |
 |--------|--------|------|
-| **OPNET Wallet** | ✅ Official | Bitcoin Native |
+| **OPNET Wallet** | ✅ Official | Bitcoin Native L1 |
 | UniSat | ✅ Supported | Bitcoin Native |
 | OKX Wallet | ✅ Supported | Multi-chain |
 | Xverse | ✅ Supported | Bitcoin Native |
@@ -146,8 +146,8 @@ This project was built for the **OPNET Mainnet Launch Event — March 2026**.
 ### Event Links
 - 🌐 OPNET Official: [https://opnet.org](https://opnet.org)
 - 📖 Developer Docs: [https://docs.opnet.org](https://docs.opnet.org)
-- 💬 Discord: [https://discord.gg/opnet](https://discord.gg/opnet)
-- 🐦 Twitter: [@opnet_btc](https://twitter.com/opnet_btc)
+- 💬 Discord: [https://discord.gg/opnet](https://discord.gg/3KQKVcjE)
+- 🐦 Twitter: [@opnet_btc](https://twitter.com/opnetbtc)
 
 ---
 
